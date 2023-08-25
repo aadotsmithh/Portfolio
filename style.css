@@ -1,0 +1,53 @@
+html {
+  height: 100%;
+  width: 100%;
+  text-align: center;
+}
+
+div {
+  width: 500px;
+  margin: auto;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.navbar a {
+  font-size: 18px;
+}
+
+body {
+  background-color: olive;
+}
+
+h1 {
+  font-family: Rockwell;
+  font-size: 30px;
+  color: black;
+  text-align: center;
+}
+
+h3 {
+  font-family: Rockwell;
+  color: ivory;
+  text-align: center;
+}
+
+p {
+  font-family: Rockwell;
+  color: ivory;
+}
+
+footer p { color: black; }
+
+ul {
+  font-family: Rockwell;
+  color: ivory;
+}
+
+a:link { color: blue; }
+a:visited { color: blue; }
+a:hover { color: cyan; }
